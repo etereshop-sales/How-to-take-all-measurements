@@ -2,7 +2,7 @@
 
 Please answer the following questions:
 
-| #  | Measurement Description                                       | Value         |
+|    |  Measurement Description                                       | Value         |
 |----|---------------------------------------------------------------|---------------|
 |    | **Height**                                                    |               |
 |    | **Weight**                                                    |               |
