@@ -52,6 +52,9 @@ Instructions on how to take measurements:
 
 ![Vot takiya pirogi](images/How-to-take-measuremnts-all_page-0007.jpg)
 
+![Vot takiya pirogi](images/How-to-take-measuremnts-all_page-0009.jpg)
+
 ![Vot takiya pirogi](images/How-to-take-measuremnts-all_page-0008.jpg)
+
 
 </details>
