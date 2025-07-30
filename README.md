@@ -1,10 +1,10 @@
 # How to take all measurements
 
 
-📥 **Download the table in other formats:**
-- [Download DOCX](./downloads/measurements-form.docx)
-- [Download TXT](./downloads/measurements-form.txt)
-- [Download XLSX](./downloads/measurements-form.xlsx)
+📥 **Download this table in other formats:**
+- [Download DOCX](https://github.com/etereshop-sales/How-to-take-all-measurements/raw/main/downloads/measurements-form.docx)
+- [Download TXT](https://github.com/etereshop-sales/How-to-take-all-measurements/raw/main/downloads/measurements-form.txt)
+- [Download XLSX](https://github.com/etereshop-sales/How-to-take-all-measurements/raw/main/downloads/measurements-form.xlsx)
 
 Please answer the following questions:
 
