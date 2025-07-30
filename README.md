@@ -1,5 +1,11 @@
 # How to take all measurements
 
+
+📥 **Download the table in other formats:**
+- [Download DOCX](./downloads/measurements-form.docx)
+- [Download TXT](./downloads/measurements-form.txt)
+- [Download XLSX](./downloads/measurements-form.xlsx)
+
 Please answer the following questions:
 
 |    |  Measurement Description                                       | Value         |
