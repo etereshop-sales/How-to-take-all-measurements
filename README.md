@@ -54,7 +54,7 @@ Instructions on how to take measurements:
 <details>
 <summary><strong>Optional measurements, for costumes that have masks, shows and/or gloves</strong></summary>
 
-![Vot takiya pirogi](images/How-to-take-measuremnts-all_page-0006.jpg)
+![Vot takiya pirogi](images/How-to-take-all-measurements-010.jpeg)
 
 ![Vot takiya pirogi](images/How-to-take-measuremnts-all_page-0007.jpg)
 
