@@ -14,12 +14,18 @@ If you prefer a standard size instead of individual measurements, use the chart 
 
 ![EtereShop sizing chart: women's and men's sizes (US / EU, chest, waist, hips, height) and shoe sizes](images/sizing-chart.png)
 
+### How to measure for the chart
+
+- **Chest** — around the fullest part of the chest, over the nipples. Keep the tape level under the arms and across the shoulder blades.
+- **Waist** — the narrowest part of the waist, usually 1–2 fingers above the navel.
+- **Hips** — the widest part of the hips, around the buttocks.
+
 ### One costume for several performers?
 
 If the costume will be worn by different people, you don't need to send everyone's measurements. Just choose the **middle size** and tell us the **height range** of the performers:
 
 - **Women:** size **M — US 6 / EU 38**, height **165 cm (5'5")**. This size fits the largest number of people.
-- **Men:** size **M — US 38 / EU 48**, height **165–170 cm**.
+- **Men:** we usually make **US 40 / EU 50**, height **170 cm (5'7")**.
 
 Our costumes are made on stretch fabric, so if a performer is a little taller, the costume simply stretches. If one performer is much taller or shorter than the others, please mention it.
 
