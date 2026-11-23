@@ -8,6 +8,21 @@ Your costume is made to your body, so accurate measurements matter. Below you wi
 
 Fill in the form and send it back to us by e-mail or WhatsApp. Please tell us whether you measured in centimetres or inches.
 
+## Standard sizes
+
+If you prefer a standard size instead of individual measurements, use the chart below (body measurements, not garment measurements).
+
+![EtereShop sizing chart: women's and men's sizes (US / EU, chest, waist, hips, height) and shoe sizes](images/sizing-chart.png)
+
+### One costume for several performers?
+
+If the costume will be worn by different people, you don't need to send everyone's measurements. Just choose the **middle size** and tell us the **height range** of the performers:
+
+- **Women:** size **M — US 6 / EU 38**, height **165 cm (5'5")**. This size fits the largest number of people.
+- **Men:** size **M — US 38 / EU 48**, height **165–170 cm**.
+
+Our costumes are made on stretch fabric, so if a performer is a little taller, the costume simply stretches. If one performer is much taller or shorter than the others, please mention it.
+
 ## Before you start
 
 - **Wear thin clothing** — a T-shirt and leggings, or underwear. No jackets or thick jumpers.
@@ -73,4 +88,4 @@ Fill in the form and send it back to us by e-mail or WhatsApp. Please tell us wh
 
 If you are not sure about a measurement, leave it empty and send us a photo — we will help.
 
-EtereShop · [sales@etereshop.com](mailto:sales@etereshop.com) · WhatsApp [+48 665 486 586](https://wa.me/48665486586) · [42.show](https://42.show/)
+EtereShop · [sales@etereshop.com](mailto:sales@etereshop.com) · WhatsApp [+48 665 486 586](https://wa.me/48665486586) · [www.etereshop.com](https://www.etereshop.com/)
