@@ -12,7 +12,7 @@ Fill in the form and send it back to us by e-mail or WhatsApp. Please tell us wh
 
 If you prefer a standard size instead of individual measurements, use the chart below (body measurements, not garment measurements).
 
-![EtereShop sizing chart: women's and men's sizes (US / EU, chest, waist, hips, height) and shoe sizes](images/sizing-chart-v2.png)
+![EtereShop sizing chart: women's and men's sizes (US / EU, chest, waist, hips, height) and shoe sizes](images/sizing-chart-v3.png)
 
 ### How to measure for the chart
 
@@ -27,7 +27,12 @@ If the costume will be worn by different people, you don't need to send everyone
 - **Women:** size **M — US 6 / EU 38**, height **165 cm (5'5")**. This size fits the largest number of people.
 - **Men:** we usually make **US 40 / EU 50**, height **170 cm (5'7")**.
 
-Our costumes are made on stretch fabric, so if a performer is a little taller, the costume simply stretches. If one performer is much taller or shorter than the others, please mention it.
+**It depends on the type of costume:**
+
+- **Stretch costumes** (bodysuits made on stretch fabric): the middle size works well, you can even take a size smaller. If a performer is a little taller, the costume simply stretches.
+- **Non-stretch costumes** (like Mirror Man, Mirror Lady and similar): the fabric hardly stretches. Please send the exact **height, chest, waist, hips and shoe size** of the performer. If the costume is for several performers, we recommend taking **one size larger** than the average size of your performers.
+
+If one performer is much taller or shorter than the others, please mention it.
 
 ## Before you start
 
