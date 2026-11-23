@@ -12,7 +12,7 @@ Fill in the form and send it back to us by e-mail or WhatsApp. Please tell us wh
 
 If you prefer a standard size instead of individual measurements, use the chart below (body measurements, not garment measurements).
 
-![EtereShop sizing chart: women's and men's sizes (US / EU, chest, waist, hips, height) and shoe sizes](images/sizing-chart.png)
+![EtereShop sizing chart: women's and men's sizes (US / EU, chest, waist, hips, height) and shoe sizes](images/sizing-chart-v2.png)
 
 ### How to measure for the chart
 
